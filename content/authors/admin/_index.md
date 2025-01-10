@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ધ્યેય માવાણી
+title: Dhyey Mavani
 
 # Name pronunciation (optional)
 name_pronunciation: Dhyey Mavani
