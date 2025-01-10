@@ -129,8 +129,7 @@ work:
     date_start: 2022-09-01
     date_end: 2022-12-31
     summary: |
-      Selected as 1 of 90 fellows across the U.S. and Canada for the 2022B cohort. This fellowship,
-focused on diversity in tech, recognizes academic excellence and commitment to impactful research. Fellows receive mentorship from leading experts and engage in cutting-edge computer science projects, developing advanced skills and contributing to real-world applications.
+      Selected as 1 of 90 fellows across the U.S. and Canada for the 2022B cohort. This fellowship, focused on diversity in tech, recognizes academic excellence and commitment to impactful research. Fellows receive mentorship from leading experts and engage in cutting-edge computer science projects, developing advanced skills and contributing to real-world applications.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
