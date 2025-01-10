@@ -130,6 +130,14 @@ work:
     date_end: 2022-12-31
     summary: |
       Selected as 1 of 90 fellows across the U.S. and Canada for the 2022B cohort. This fellowship, focused on diversity in tech, recognizes academic excellence and commitment to impactful research. Fellows receive mentorship from leading experts and engage in cutting-edge computer science projects, developing advanced skills and contributing to real-world applications.
+  - position: Business Analytics & VC Extern
+    company_name: HP Tech Ventures
+    company_url: https://hptechventures.com/
+    company_logo: ''
+    date_start: 2022-05-01
+    date_end: 2022-07-31
+    summary: |
+      Analyzed data using SQL & Excel, research and sourced deals for hybrid work model market based startups. Created a pitch deck with analysis for one of the companies to present to the relevant stakeholders.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -138,15 +146,19 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
         percent: 100
+        icon: code-bracket
+      - name: R
+        description: ''
+        percent: 90
         icon: chart-bar
+      - name: Rust
+        description: ''
+        percent: 60
+        icon: code-bracket
       - name: SQL
         description: ''
-        percent: 40
+        percent: 60
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -156,53 +168,119 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Badminton
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: badminton
+      - name: Cricket
         description: ''
         percent: 80
-        icon: camera
+        icon: cricket
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Gujarati
+    percent: 100
+  - name: Hindi
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: 6th Place Individually in Yonex Northeastern Collegiate Badminton
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    date: '2024-11-01'
+    awarder: Boston Badminton
+    icon: badminton
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Competed in a Division 3 collegiate tournament against 80+ undergraduate, master’s, and PhD students. Secured 6th place in singles, winning 8/8 matches, and performed strongly in doubles with 4/5 victories. Demonstrated skill, strategy, and leadership by contributing to a team victory against Harvard and Binghamton universities.
+
+  - title: Mu Sigma Rho Membership
+    date: '2024-04-01'
+    awarder: Boston Chapter of the ASA (BCASA)
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Recognized for outstanding academic achievement in statistics courses and overall undergraduate coursework.
+
+  - title: 1st Place - Hack The Herd Sustainability Hackathon
+    date: '2023-12-01'
+    awarder: Amherst College
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Awarded for GAIA for Meeting Prep, selected by Faculty and College Administration out of 50+ participants. Recognized for creativity and practicality in streamlining board meeting preparations to improve efficiency and environmental impact within the Office of Sustainability.
+
+  - title: 1st Place - HackUMass XI (Grand Prize Winner)
+    date: '2023-11-01'
+    awarder: University of Massachusetts Amherst
+    summary: |
+      Awarded for MinervAI, selected as the best project out of 5,000+ participants globally. Recognized for creativity, technical elegance, and innovative use of AI to solve high-impact real-world challenges in the EdTech space.
+
+  - title: 3rd Prize - Y Combinator Startup Pitch Competition
+    date: '2023-09-01'
+    awarder: Y Combinator
+    summary: |
+      Recognized for LogFlow AI, an innovative solution leveraging intelligent data analysis to streamline workflow management. Selected from a pool of 10,000+ participants worldwide. Reflects commitment to entrepreneurship and a passion for creating technology-driven solutions.
+
+  - title: 2023 William J. Walker Prize for Problem-Solving in Competitive Mathematics (First Place)
+    date: '2023-05-01'
+    awarder: Amherst College
+    summary: |
+      Awarded to the top performer in a rigorous problem-solving exam with mathematical Olympiad-style problems among ~450 sophomores. Recognized for exceptional creativity and theoretical mastery in fields like algebra, geometry, combinatorics, calculus, and probability.
+
+  - title: 2022 William J. Walker Prize for Problem-Solving in Competitive Mathematics (Second Place)
+    date: '2022-05-01'
+    awarder: Amherst College
+    summary: |
+      Awarded to the second-highest performer in a mathematical Olympiad-style problem-solving exam among ~450 first-year students. Highlights creativity, problem-solving skills, and deep theoretical understanding of mathematical concepts.
+
+  - title: 4 Badges in USA Archery's Tournaments
+    date: '2022-03-01'
+    awarder: USA Archery
+    summary: |
+      Earned badges in the Junior Olympic Archery Development (JOAD) Program, recognizing indoor and outdoor target accuracy achievements. Required scoring 180 out of 200 points in indoor and outdoor target shooting from 25m.
+
+  - title: Pramerica Spirit of Community Award (National Honor Silver Award)
+    date: '2021-03-01'
+    awarder: Pramerica Spirit of Community Awards
+    summary: |
+      Recognized for empowering marginalized youth through education and mentorship, bridging language barriers, and providing emotional support for orphaned HIV-positive girls at Janani Dham.
+
+  - title: Gold Award and 1st-Runner-up in World International Mathematics Olympiad Finals
+    date: '2021-01-01'
+    awarder: SMO Mathematical Society
+    summary: |
+      Represented my country in the World International Mathematics Olympiad Finals after excelling in initial rounds. Scored perfect marks in Arithmetic, Algebra, and Geometry problems, showcasing advanced problem-solving skills.
+
+  - title: World Rank-3rd, All India Rank-1st in HKIMO Final
+    date: '2020-10-01'
+    awarder: Hong Kong International Mathematics Olympiad Association
+    summary: |
+      Represented my country in the HKIMO Final after four rigorous selection rounds. Earned a Gold Award for outstanding performance in advanced mathematical problem-solving.
+
+  - title: "Champion Award" & World Rank-1st in AIMO Final
+    date: '2020-09-01'
+    awarder: Asia International Mathematical Olympiad
+    summary: |
+      Awarded 1st place among 10,000+ students. Recognized for problem-solving excellence and mastery of advanced mathematical concepts, reflecting passion for mathematics and analytical aptitude.
+
+  - title: Finalist - Indian National Mathematics Olympiad
+    date: '2020-01-01'
+    awarder: Homi Bhabha Centre for Science Education
+    summary: |
+      Selected as one of 300 finalists out of 50,000+ participants. Recognized for exceptional analytical and problem-solving skills, distinguishing myself among India’s top young mathematicians.
+
+  - title: Outstanding Cambridge Learner Award - High Achievement in Additional Mathematics
+    date: '2019-12-01'
+    awarder: Cambridge International Education (CIE)
+    summary: |
+      Awarded for exceptional performance in Cambridge IGCSE Additional Mathematics with a score of 96/100. Recognized as the highest achiever in the country for this subject.
+
+  - title: Allen Champ Awards (2017-2019)
+    date: '2019-08-01'
+    awarder: Allen Career Institute
+    summary: |
+      Achieved All India Ranks of 3rd, 5th, and 7th over three consecutive years based on outstanding academic and extracurricular achievements. Awarded cash prizes and scholarships for exceptional performance.
 ---
 
 ## About Me
