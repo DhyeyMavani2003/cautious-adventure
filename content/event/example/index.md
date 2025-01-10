@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: Mastering LinkedIn
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Amherst College Loeb Center of Career Exploration and Planning Workshops
+event_url: https://careers.amherst.edu
 
-location: Hugo Blox Builder HQ
+location: E210 Science Center
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 10 Merrill Science Drive
+  city: Amherst
+  region: MA
+  postcode: '01002'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: A talk to share tips to build a powerful online presence!
+abstract: 'In this interactive LinkedIn training session, attendees will gain actionable insights on optimizing their LinkedIn profiles for professional success. Topics will cover strategic networking, personal branding, and utilizing LinkedIn’s tools to maximize visibility. Whether you’re starting fresh or refining an established profile, this session will equip you with the techniques to stand out in today’s competitive job market. Participants will walk away with a clear understanding of how to effectively showcase their unique skills, connect with industry professionals, and leverage LinkedIn as a platform for career growth. In this session, Dhyey Mavani will present from his experience working at Linkedin along with his successful recruiting journey/processes throughout his time at Amherst College. At the end, we will also have ample time for Q&A!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-12-09T17:00:00Z'
+date_end: '2024-12-09T18:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-12-01T00:00:00Z'
 
 authors:
   - admin
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: ''
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_slides: 'https://docs.google.com/presentation/d/1UFH9cXcr6aBQq0ocuUK3AnxUAQ2U5UCN36CnwnEVMY0/edit?usp=sharing'
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -61,15 +61,3 @@ slides: ""
 projects:
   - example
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
