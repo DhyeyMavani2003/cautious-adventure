@@ -191,10 +191,8 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: 6th Place Individually in Yonex Northeastern Collegiate Badminton
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2024-11-01'
     awarder: Boston Badminton
-    icon: badminton
     summary: |
       Competed in a Division 3 collegiate tournament against 80+ undergraduate, master’s, and PhD students. Secured 6th place in singles, winning 8/8 matches, and performed strongly in doubles with 4/5 victories. Demonstrated skill, strategy, and leadership by contributing to a team victory against Harvard and Binghamton universities.
 
@@ -258,7 +256,7 @@ awards:
     summary: |
       Represented my country in the HKIMO Final after four rigorous selection rounds. Earned a Gold Award for outstanding performance in advanced mathematical problem-solving.
 
-  - title: "Champion Award" & World Rank-1st in AIMO Final
+  - title: Champion Award & World Rank-1st in AIMO Final
     date: '2020-09-01'
     awarder: Asia International Mathematical Olympiad
     summary: |
@@ -281,6 +279,7 @@ awards:
     awarder: Allen Career Institute
     summary: |
       Achieved All India Ranks of 3rd, 5th, and 7th over three consecutive years based on outstanding academic and extracurricular achievements. Awarded cash prizes and scholarships for exceptional performance.
+
 ---
 
 ## About Me
