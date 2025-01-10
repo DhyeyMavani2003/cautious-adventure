@@ -6,8 +6,8 @@ title: 吳健雄
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Dhyey
+last_name: Mavani
 
 # Status emoji
 status:
@@ -20,36 +20,37 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: (AI/ML) Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: LinkedIn
+    url: https://www.linkedin.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ddmavani2003@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/MavaniDhyey
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/dhyey.d.mavani
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/DhyeyMavani2003
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/dhyey-mavani
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=MNEPsDoAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
   - Information Retrieval
+  - Machine Learning
+  - Statistical Learning
 
 education:
   - area: PhD Artificial Intelligence
