@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: ધ્યેય માવાણી
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Dhyey Mavani
 
 # Full name (for SEO)
 first_name: Dhyey
@@ -11,7 +11,7 @@ last_name: Mavani
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎯
 
 # Is this the primary user of the site?
 superuser: true
