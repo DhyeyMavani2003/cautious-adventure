@@ -53,37 +53,32 @@ interests:
   - Statistical Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelors in Computer Science, Mathematics (Honors), and Statistics (Honors)
+    institution: Amherst College
+    date_start: 2021-08-30
+    date_end: 2025-05-25
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      - Cumulative GPA: 3.96/4.00
+      - Major(s) GPA: 4.00/4.00
+      - Explored Computer Science, Mathematics, Statistics, Economics, English, Theatre & Dance!
+      - Theses on Machine Assisted Proving in Lean4 for Chip Firing Graphs, and Efficient Python Software for Checkerboard Copula Modeling on Discrete Data.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'Read Theses'
+      url: 'https://dhyeymavani.com/projects'
+  - area: Visiting Student Program (Graduate-level)
+    institution: Columbia University in the City of New York
+    date_start: 2023-01-01
+    date_end: 2023-05-15
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - GPA: 4.055/4.300
+      - 6 graduate-level courses in mathematics and statistics.
+  - area: AIT Budapest Study Abroad Program 
+    institution: Budapest University of Technology and Economics
+    date_start: 2024-01-01
+    date_end: 2024-05-15
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - GPA: 5.00/5.00
+      - 5 courses in computer engineering and software development (all A+ grades).
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -184,4 +179,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dhyey Mavani thrives on solving challenges at the crossroads of Mathematics, Computer Science, Statistics, and Economics. His unique perspective, shaped by a liberal-arts education, positions him to make meaningful real-world impact both in academia and industry. A strategic thinker at heart, Dhyey excels in dissecting intricate problems and devising actionable solutions. He believes in the power of collaboration, cherishing partnerships with professionals from diverse backgrounds to produce outstanding results.
+
+Outside the realms of academia and work, adventure calls out to Dhyey. Whether it's traversing new terrains, perfecting his archery shot, or engaging in a spirited badminton match, he's always up for a challenge. Other adventurous interests of Dhyey include photography, jetskiing, ATV quad biking, bungee jumping, and zip-lining.
